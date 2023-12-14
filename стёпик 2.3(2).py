@@ -1,0 +1,5 @@
+ras = input()
+x1 = input()
+x2 = input()
+x3 = input()
+print( x1, x2, x3, sep = ras)
